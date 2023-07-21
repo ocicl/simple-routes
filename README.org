@@ -4,6 +4,6 @@ A simple Common Lisp RESTful routing facility on top of Hunchentoot.
 
 |---------+----------------------------------------------------|
 | source  | git:https://gitlab.com/vancan1ty/simple-routes.git |
-| commit  | 0181534                                            |
+| commit  | 6f88c38                                            |
 | systems | simple-routes                                      |
 |---------+----------------------------------------------------|
